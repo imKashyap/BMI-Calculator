@@ -15,3 +15,4 @@
   <div class="column">
     <img src="screenshots/Screenshot_2.png" width=250 alt="Screenshot 2 of the app" hspace="20">
   </div>
+ </div>
