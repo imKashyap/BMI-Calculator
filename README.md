@@ -8,6 +8,10 @@
 
 ## Screenshots:
 
-<img src="screenshots/Screenshot_1.png" width=350 alt="Screenshot 1 of the app">
-
-<img src="screenshots/Screenshot_2.png" width=350 alt="Screenshot 2 of the app">
+<div class="row">
+  <div class="column">
+    <img src="screenshots/Screenshot_1.png" width=350 alt="Screenshot 1 of the app" hspace="20">
+  </div>
+  <div class="column">
+    <img src="screenshots/Screenshot_2.png" width=350 alt="Screenshot 2 of the app" hspace="20">
+  </div>
